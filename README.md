@@ -6,7 +6,7 @@ DevOps-17
 
 Vagrantfile запускает Linux машину на VirtualBox и устанавливает DB PostgreSQL.
 
-VM - hashicorp/bionic64
+VM - hashicorp/bionic64  
 DB - PostgreSQL:8.4.22
 
 Проверка:
